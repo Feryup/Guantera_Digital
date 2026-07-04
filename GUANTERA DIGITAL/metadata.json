@@ -1,0 +1,6 @@
+{
+  "name": "Guantera Digital",
+  "description": "Aplicación móvil offline-first para el resguardo de la documentación vehicular y seguridad durante controles de tránsito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
